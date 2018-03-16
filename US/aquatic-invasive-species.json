@@ -1,0 +1,55 @@
+{
+  "Aquatic Invasive Species": {
+    "Plants": {
+      "Alligatorweed": "Alternanthera philoxeroides",
+      "Brazilian Waterweed": "Egeria densa",
+      "Caulerpa, Mediterranean Clone": "Caulerpa taxifolia",
+      "Common Reed": "Phragmites australis",
+      "Curly Pondweed": "Potamogeton crispus",
+      "Didymo": "Didymosphenia geminata",
+      "Eurasian Watermilfoil": "Myriophyllum spicatum",
+      "Giant Reed": "Arundo donax",
+      "Giant Salvinia": "Salvinia molesta",
+      "Hydrilla": "Hydrilla verticillata",
+      "Melaleuca": "Melaleuca quinquenervia",
+      "Purple Loosestrife": "Lythrum salicaria",
+      "Water Chestnut": "Trapa natans",
+      "Water Hyacinth": "Eichhornia crassipes",
+      "Water Lettuce": "Pistia stratiotes",
+      "Water Spinach": "Ipomoea aquatica"
+    },
+    "Animals": {
+      "Alewife": "Alosa pseudoharengus",
+      "Asian Carps": {
+        "Bighead Carp": "Hypophthalmichthys nobilis",
+        "Black Carp": "Mylopharyngodon piceus",
+        "Grass Carp": "Ctenopharyngodon idella",
+        "Silver Carp": "Hypophthalmichthys molitrix"
+      },
+      "Asian Clam": "Corbicula fluminea",
+      "Asian Shore Crab ": "Hemigrapsus sanguineus",
+      "Asian Swamp Eel ": "Monopterus albus",
+      "Bullfrog ": "Lithobates catesbeianus",
+      "Channeled Apple Snail ": "Pomacea canaliculata",
+      "Cane Toad ": "Rhinella marina",
+      "Chinese Mitten Crab ": "Eriocheir sinensis",
+      "Clubbed Tunicate ": "Styela clava",
+      "Eurasian Ruffe ": "Gymnocephalus cernuus",
+      "European Green Crab ": "Carcinus maenas",
+      "Flathead Catfish ": "Pylodictis olivaris",
+      "Lionfish ": "Pterois volitans",
+      "New Zealand Mud Snail ": "Potamopyrgus antipodarum",
+      "Northern Snakehead ": "Channa argus",
+      "Nutria ": "Myocastor coypus",
+      "Quagga Mussel ": "Dreissena rostriformis bugensis",
+      "Round Goby ": "Neogobius melanostomus",
+      "Rusty Crayfish ": "Orconectes rusticus",
+      "Sea Lamprey ": "Petromyzon marinus",
+      "Sea Squirt ": "Didemnum vexillum",
+      "Spiny Water Flea ": "Bythotrephes longimanus",
+      "Veined Rapa Whelk ": "Rapana venosa",
+      "White Spotted Jellyfish ": "Phyllorhiza punctata",
+      "Zebra Mussel ": "Dreissena polymorpha"
+    }
+  }
+}
